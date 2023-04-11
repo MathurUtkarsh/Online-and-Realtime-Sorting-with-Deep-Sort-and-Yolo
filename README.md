@@ -10,7 +10,7 @@ Changes
 
 ## Latest Update(07-22)
 Changes
-- bug fix (Thanks @JieChen91 and @yingsen1 for bug reporting).  
+- bug fix   
 - using batch for feature extracting for each frame, which lead to a small speed up.  
 - code improvement.
 
