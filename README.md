@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 1. Clone this repository
 ```
-git clone git@github.com:ZQPei/deep_sort_pytorch.git
+git clone https://github.com/MathurUtkarsh/Peeyush_Hackathon.git
 ```
 
 2. Download YOLOv3 parameters
