@@ -43,11 +43,6 @@ However in original code, the CNN model is implemented with tensorflow, which I'
 ```bash
 pip install -r requirements.txt
 ```
-for user in china, you can specify pypi source to accelerate install like:
-```bash
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
-```
-
 1. Clone this repository
 ```
 git clone git@github.com:ZQPei/deep_sort_pytorch.git
